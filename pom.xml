@@ -1,0 +1,8 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://...">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.cibertec</groupId>
+    <artifactId>t2_git_KarlaGradosNeyra</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <description>Proyecto de Karla Grados Neyra</description>
+<url>http://cibertec.edu.pe</url>
+</project>
